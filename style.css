@@ -1,0 +1,13 @@
+#image {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color:rgba(199, 236, 64, 0.822);
+}
+h4{
+    justify-content: center;
+    display: flex;
+    background-color: blue;
+    color: white ;
+    align-items: center;
+}
